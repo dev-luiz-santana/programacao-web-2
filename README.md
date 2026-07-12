@@ -30,5 +30,5 @@ Mini sistema que permite o usuario enviar uma foto para o sistema
 - **HTML / CSS**
 - **JavaScript**
 
-  ## Licença
-  Projeto acadêmico, livre para fins de estudo.
+## Licença
+Projeto acadêmico, livre para fins de estudo.
