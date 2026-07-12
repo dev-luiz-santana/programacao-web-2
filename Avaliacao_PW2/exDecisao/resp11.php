@@ -16,7 +16,7 @@
                 echo "<br/>Acesso negado";
             }
         }
-        echo "</div>";
+        echo "</div>"
     ?>
 
 </section>
