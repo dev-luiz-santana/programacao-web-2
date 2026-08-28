@@ -29,6 +29,3 @@ Mini sistema que permite o usuario enviar uma foto para o sistema
 - **MySql**
 - **HTML / CSS**
 - **JavaScript**
-
-## Licença
-Projeto acadêmico, livre para fins de estudo.
